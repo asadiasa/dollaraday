@@ -19,9 +19,21 @@ h2 {
 }
 
 .organizations {
-  line-height: 1.5px;
+  width: 80%;
+  margin: auto;
+}
+
+.organizations h5 {
+  margin-bottom: 0px;
+}
+
+.organizations p {
+  margin-bottom: 0px;
 }
 .noCash {
   width: 80%;
   margin: auto;
+}
+.noCash p {
+  margin-bottom: 0px;
 }
